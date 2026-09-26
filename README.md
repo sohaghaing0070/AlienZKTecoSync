@@ -27,7 +27,7 @@
 - [Supported Database Engines](#-supported-database-engines)
 - [Real-Time Webhook & ERP Integration](#-real-time-webhook--erp-integration)
 - [Installation & Quick Start](#-installation--quick-start)
-- [Security & License Architecture](#-security--license-architecture)
+- [Enterprise Data Privacy & Security](#-enterprise-data-privacy--security)
 - [Developer & Enterprise Support](#-developer--enterprise-support)
 
 ---
@@ -178,13 +178,13 @@ When Webhooks are enabled, the engine dispatches real-time JSON payloads:
 2. **Configure Database:** In the **Database Config** tab, select your database engine (Oracle / MySQL / SQLite), enter your server credentials, and test the link.
 3. **Start Sync:** Click **Start Sync Engine**. The status indicator turns green, and real-time punch logs appear immediately in the activity feed.
 
----
+## 🛡️ Enterprise Data Privacy & Security
 
-## 🛡️ Security & License Architecture
+- **100% On-Premises Isolated Execution:** Operates entirely within your private corporate network without any dependency on third-party cloud servers.
+- **Zero Data Leakage & Zero Telemetry:** Biometric logs, employee records, and database credentials remain strictly inside your organization's secure infrastructure.
+- **Local Secure Storage:** Database profiles and system configurations are maintained locally in ACID-compliant encrypted storage.
+- **Administrative Access Control:** Built-in management authentication protects sync configurations, device mappings, and database settings from unauthorized modification.
 
-- **Machine-Locked Cryptography:** Enterprise license keys are cryptographically bound to hardware identifiers (CPU ID, Motherboard UUID, MAC Address) to prevent unauthorized redistribution.
-- **Encrypted Local Storage:** Passwords, connection strings, and license storage are securely hashed and stored locally.
-- **Zero Telemetry Leaks:** All operations run strictly on your internal network without sending your organization's attendance or biometric data to third-party servers.
 
 ---
 
