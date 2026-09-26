@@ -11,6 +11,10 @@
 
 <br/>
 
+<img src="assets/banner.jpg" alt="Alien Soft ZKTeco Attendance Hub Enterprise v2.5" width="100%" style="border-radius: 10px;" />
+
+<br/><br/>
+
 **Alien Soft ZKTeco Attendance Hub Enterprise** is a high-performance Windows desktop application and resilient background synchronization service engineered for real-time, automated biometric log ingestion between **ZKTeco biometric terminals** and **Enterprise Databases (Oracle, MySQL, SQLite, REST Webhooks, and ERP/HRMS systems)**.
 
 <br/>
